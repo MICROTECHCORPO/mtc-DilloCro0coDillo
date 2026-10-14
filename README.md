@@ -16,7 +16,8 @@ Tworzymy kolekcje, które nie są masowe: każda sztuka ma być wykonana na zam�
 <img width="1024" height="519" alt="92340108-744a-4a04-b6e9-f1f7556bfc0b" src="https://github.com/user-attachments/assets/699415db-5df4-4aee-b7ed-5be7f67675f5" />
 
 
-## Filozofia produktu
+## Filozofia produktu<img width="1024" height="1024" alt="watermarked_img_2620138771788926567" src="https://github.com/user-attachments/assets/e4a407b6-217b-4dd6-b614-fcc069860fee" />
+
 
 - 100% unikatowość: każda kolekcja jest zaprojektowana jako seria limitowana
 - produkcja na zamówienie: małe nakłady, maks. 5 egzemplarzy jednego wzoru
@@ -24,6 +25,10 @@ Tworzymy kolekcje, które nie są masowe: każda sztuka ma być wykonana na zam�
 - haft 3D i hybrydowy: detale, relief, mocny charakter wizualny
 - NFC / QR / certyfikat: każda sztuka ma własną tożsamość i autentyczność
 - kultura kolekcjonerska: produkty mają być traktowane jako obiekty premium, nie zwykły towar
+- <img width="1024" height="1024" alt="Gemini_Generated_Image — kopia" src="https://github.com/user-attachments/assets/f3b298b7-d77c-4249-b337-6a26a38223ef" />
+<img width="1024" height="1024" alt="watermarked_img_7091688021749991470" src="https://github.com/user-attachments/assets/14379be4-ce4a-4b1e-a938-81c1f67febe6" />
+<img width="1024" height="1024" alt="watermarked_img_17582249667775692239" src="https://github.com/user-attachments/assets/bc4fc5b5-363b-41f9-aed5-db6af1e95088" />
+
 
 ## Główne linie kolekcji
 
