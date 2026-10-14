@@ -1,4 +1,5 @@
-<img width="1024" height="519" alt="92340108-744a-4a04-b6e9-f1f7556bfc0b" src="https://github.com/user-attachments/assets/699415db-5df4-4aee-b7ed-5be7f67675f5" />
+<img width="1024" height="519" alt="6a61fba4-9c7e-4a40-8d7c-79744dc32b9f" src="https://github.com/user-attachments/assets/ba150e29-6ca1-45bb-b742-edcae5d2853c" />
+
 
 
 # DilloCrocodilo
@@ -12,8 +13,8 @@ Live demo: https://dillocroocodillo.base44.app
 ## Misja
 
 Tworzymy kolekcje, które nie są masowe: każda sztuka ma być wykonana na zamówienie, w małych seriach, z dużą dbałością o materiał, haft, jakość wykończenia i autentyczność produktu. W centrum stoi idea: prawdziwe, limitowane, wearable art.
+<img width="1024" height="519" alt="92340108-744a-4a04-b6e9-f1f7556bfc0b" src="https://github.com/user-attachments/assets/699415db-5df4-4aee-b7ed-5be7f67675f5" />
 
-<img width="1024" height="519" alt="6a61fba4-9c7e-4a40-8d7c-79744dc32b9f" src="https://github.com/user-attachments/assets/ba150e29-6ca1-45bb-b742-edcae5d2853c" />
 
 ## Filozofia produktu
 
