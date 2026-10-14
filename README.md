@@ -1,12 +1,19 @@
+<img width="1024" height="519" alt="92340108-744a-4a04-b6e9-f1f7556bfc0b" src="https://github.com/user-attachments/assets/699415db-5df4-4aee-b7ed-5be7f67675f5" />
+
+
 # DilloCrocodilo
 
 DilloCrocodilo to ekskluzywny, polski brand streetwearowy i taktyczny z mocnym charakterem premium, z naciskiem na unikatowość, lokalną produkcję i limitowane serie kolekcjonerskie. Marka łączy estetykę militarną, industrialną oraz luksusową z motywem krokodyla-granatu jako symbolu tożsamości.
 
 Live demo: https://dillocroocodillo.base44.app
 
+<img width="1024" height="519" alt="6deed36b-f842-49fe-87d0-44ac229e108d" src="https://github.com/user-attachments/assets/a1d7e1cd-1487-403c-83ea-ba1c9f2c06a2" />
+
 ## Misja
 
 Tworzymy kolekcje, które nie są masowe: każda sztuka ma być wykonana na zamówienie, w małych seriach, z dużą dbałością o materiał, haft, jakość wykończenia i autentyczność produktu. W centrum stoi idea: prawdziwe, limitowane, wearable art.
+
+<img width="1024" height="519" alt="6a61fba4-9c7e-4a40-8d7c-79744dc32b9f" src="https://github.com/user-attachments/assets/ba150e29-6ca1-45bb-b742-edcae5d2853c" />
 
 ## Filozofia produktu
 
